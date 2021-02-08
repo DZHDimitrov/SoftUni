@@ -1,0 +1,48 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+
+namespace _06.CardsGame
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            List<int> deckOne = Console.ReadLine().Split(' ', StringSplitOptions.RemoveEmptyEntries).Select(int.Parse).ToList();
+            List<int> deckTwo = Console.ReadLine().Split(' ', StringSplitOptions.RemoveEmptyEntries).Select(int.Parse).ToList();
+
+            
+            while (deckOne.Count > 0 && deckTwo.Count > 0)
+            {
+                if (deckOne[0] > deckTwo[0])
+                {
+                    deckOne.Add(deckOne[0]);
+                    deckOne.Add(deckTwo[0]);
+                    deckOne.RemoveAt(0);
+                    deckTwo.RemoveAt(0);
+
+                }
+                else if (deckOne[0] < deckTwo[0])
+                {
+                    deckTwo.Add(deckTwo[0]);
+                    deckTwo.Add(deckOne[0]);
+                    deckOne.RemoveAt(0);
+                    deckTwo.RemoveAt(0);
+                }
+                else if (deckOne[0] == deckTwo[0])
+                {
+                    deckOne.RemoveAt(0);
+                    deckTwo.RemoveAt(0);
+                }
+            }
+            if (deckOne.Count > 0)
+            {
+                Console.WriteLine($"First player wins! Sum: {deckOne.Sum()}");
+            }
+            else if (deckTwo.Count > 0)
+            {
+                Console.WriteLine($"Second player wins! Sum: {deckTwo.Sum()}");
+            }       
+        }
+    }
+}
