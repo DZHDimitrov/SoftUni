@@ -1,0 +1,45 @@
+body{
+    margin:0;
+    padding: 0;
+}
+.normal-button a{
+    color: black;
+    text-decoration: none;
+}
+.buttons-container{
+    background: #EEEEEE;
+    padding: 30px;   
+}
+.btn{
+    padding: 8px 15px;
+    border-radius: 23px;
+    font-weight: bold;
+    margin-right: 10px;
+}
+i{
+    margin-right:5px;
+}
+.filled-button a,.icon-button a{
+    color: white;
+    text-decoration: none;
+}
+.normal-button:last-child:hover{
+    cursor: pointer;
+    background-color: white;
+    border: 2px solid green;
+    color: green;
+}
+.filled-button,.icon-button{
+    background-color: rgb(44, 40, 40);
+    color: white
+}
+.filled-button:last-child:hover,.icon-button:last-child:hover{
+    cursor: pointer;
+    background-color: green;
+    color: white;
+    border: 2px solid green;
+}
+.buttons2-container{
+    margin-left:300px;
+    margin-bottom:100px;
+}

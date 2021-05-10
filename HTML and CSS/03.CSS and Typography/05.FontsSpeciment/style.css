@@ -1,0 +1,17 @@
+body{
+    font-family: 'Cormorant Upright', serif;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.5;
+}
+h1,h2{
+    font-weight: bold;
+    line-height: 1.2;
+}
+
+.first-list,.secondary-list{
+    list-style-type: disc;
+}
+.last-list{
+    list-style-type: circle;
+}

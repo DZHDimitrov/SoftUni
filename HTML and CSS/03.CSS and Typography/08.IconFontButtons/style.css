@@ -1,0 +1,26 @@
+.buttons{
+    margin: 50px
+}
+.buttons div{
+margin-top: 15px;
+margin-bottom: 15px;
+}
+.btn{
+    border-radius: 5px;
+    padding: 12px;
+    border: none;
+}
+.click{
+    background-color: rgb(83, 177, 83);
+    text-align: center;
+}
+.email{
+    background-color: orange;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+i{
+    margin-right: 5px;
+}

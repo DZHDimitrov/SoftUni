@@ -1,0 +1,12 @@
+@import 'https://use.fontawesome.com/releases/v5.15.3/js/all.js';
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.icons{
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.icons{
+    list-style-type: none;
+}

@@ -1,0 +1,11 @@
+.table tr:nth-child(odd){
+    background: rgb(241, 241, 241);  
+}
+.table td:nth-child(odd){
+    background: rgb(241, 241, 241);  
+}
+.table tr th{
+    border-width: 1px;
+    border-color: rgb(221, 221, 221);
+    border-style: solid;
+}
