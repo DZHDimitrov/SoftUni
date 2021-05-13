@@ -1,0 +1,33 @@
+body{
+    padding: 100px;
+}
+.photo-gallery-wrapper{
+    width:70%;
+    display: inline-block;
+    margin-left: 30px;
+    background-color: #EEEEEE;
+    border: 2px solid black;
+}
+ul li{
+    display: inline-block;
+    padding: 10px;
+}
+ul li img:nth-child(3){
+    width: 50px;
+}
+#picture1{
+    width: 300px;
+    height: 450px;
+}
+.gallery li img{
+    border: 0.4rem solid black;
+    padding: 15px;
+}
+.gallery li:nth-child(1) img,
+.gallery li:nth-child(2) img,
+.gallery li:nth-child(4) img,
+.gallery li:nth-child(7) img,
+.gallery li:nth-child(8) img,
+.gallery li:nth-child(10) img{
+    margin-bottom: 35%;
+}

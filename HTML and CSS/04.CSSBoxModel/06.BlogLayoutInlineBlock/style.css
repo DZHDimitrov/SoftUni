@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(238, 238, 238);
+    color: rgb(51, 51, 51) ;
+}
+section img{
+    width: 450px;
+    height: 375px;
+}
+.page-wrapper{
+    width: 75%;
+    display: inline-block;
+}
+#time{
+    padding-top:20px;
+}
+aside{
+    display: inline-block;
+    vertical-align: top;
+    width: 15%;
+    word-wrap: break-word;
+}
