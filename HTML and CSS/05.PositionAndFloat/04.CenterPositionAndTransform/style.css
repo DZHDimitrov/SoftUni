@@ -1,0 +1,43 @@
+body{
+    background: rgb(238, 238, 238);
+}
+section{
+    margin: 600px;
+    background: rgb(255, 255, 255);
+    display: inline-block;
+    border-radius: 5px;
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+}
+img{
+    position: absolute;
+    top: 258px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    width:524px;
+}
+h1,h2,h3,h4,h5,h6{
+    font-family: Georgia, serif;
+    font-size: 1em/1.2;
+}
+section div:nth-child(2){
+    padding: 5px;
+    padding-left: 17px;
+    padding-right: 17px;
+}
+button{
+    margin-left: 400px;
+    margin-bottom: 20px;
+    margin-top: 10px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 16px;
+    padding-right: 16px;
+    border:none;
+    border-radius: 3px;
+    background: #009A02;
+    color:white;
+}
+button:hover{
+    cursor:pointer;
+}
