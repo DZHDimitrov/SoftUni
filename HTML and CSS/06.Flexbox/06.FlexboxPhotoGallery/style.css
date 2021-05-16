@@ -1,0 +1,39 @@
+body{
+    width: 60vw;
+    height: 80vh;
+    margin:auto;
+    background-color: #EEEEEE;
+    font-family: Georgia,serif;
+    font-size: 1em/1.2;
+    display:flex;
+}
+
+
+.gallery ul{
+    display: flex;
+    flex-wrap: wrap;
+    list-style-type: none;
+    
+    justify-content: space-between;
+}
+img{
+    width: 100%;
+    height:100%;
+}
+.gallery ul li:nth-child(2) img,
+.gallery ul li:nth-child(5) img,
+.gallery ul li:nth-child(9) img{
+    height: 150px;
+    align-self: center;
+    margin-top: 35%;
+}
+.gallery ul li{
+    border: 7px solid black;
+    flex-basis: 20%;
+    padding: 40px;
+    margin-bottom: 15px;
+    
+    box-shadow: -2px -1px 18px 10px rgba(0,0,0,0.43);
+    -webkit-box-shadow: -2px -1px 18px 10px rgba(0,0,0,0.43);
+    -moz-box-shadow: -2px -1px 18px 10px rgba(0,0,0,0.43);
+}

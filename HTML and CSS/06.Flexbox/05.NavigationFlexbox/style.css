@@ -1,0 +1,26 @@
+body{
+    margin:0;
+}
+header{
+    display: flex;
+    margin: 60px;
+    justify-content: space-between;
+    border-bottom: 2px solid rgb(0,0,0);
+}
+header ul{
+    display:flex;
+    list-style-type:none;
+    align-self:center;
+}
+header ul li{
+    margin-left: 12px;
+    margin-right: 12px;
+}
+a{
+    
+    color:rgb(0, 153, 0);
+    text-decoration: none;
+}
+main{
+    margin: 60px;
+}
