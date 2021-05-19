@@ -1,0 +1,49 @@
+@import 'https://use.fontawesome.com/releases/v5.15.3/css/all.css';
+
+section{
+    position: relative;
+    background-color: darkblue;
+    width: 68.2%;
+    margin:auto;
+    margin-top: 120px;
+}
+section img{
+    display: block;
+    opacity: 0.3;
+    overflow: hidden;
+}
+.list{
+    position: absolute;
+    top: 130px;
+    display:flex;
+    flex-wrap: wrap;
+    color:black; 
+}
+.list i{
+    width: 100%;
+    font-size: 40px;
+    color:orange;
+    margin-left: 15px;
+}
+.users,.plane,.Clients,.Shipments{
+    margin:0px 120px;
+}
+.list p{
+    color:white;
+    font-size: 20px;
+    font-weight: bolder;
+    text-align: center;
+}
+.list h5{
+    color: white;
+    font-size: 18px;
+    margin-top: -10px;
+}
+#x-icon{
+    position: absolute;
+    display: block;
+    right:20px;
+    margin-top: 10px;
+    font-size:35px;
+    color: white;
+}
