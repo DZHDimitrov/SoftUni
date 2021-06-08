@@ -1,0 +1,15 @@
+C:\Users\Daniel\source\repos\CSharp-advanced-StreamsAndFiles\06.ZipAndExtract\bin\Debug\net5.0\06.ZipAndExtract.exe
+C:\Users\Daniel\source\repos\CSharp-advanced-StreamsAndFiles\06.ZipAndExtract\bin\Debug\net5.0\06.ZipAndExtract.deps.json
+C:\Users\Daniel\source\repos\CSharp-advanced-StreamsAndFiles\06.ZipAndExtract\bin\Debug\net5.0\06.ZipAndExtract.runtimeconfig.json
+C:\Users\Daniel\source\repos\CSharp-advanced-StreamsAndFiles\06.ZipAndExtract\bin\Debug\net5.0\06.ZipAndExtract.runtimeconfig.dev.json
+C:\Users\Daniel\source\repos\CSharp-advanced-StreamsAndFiles\06.ZipAndExtract\bin\Debug\net5.0\06.ZipAndExtract.dll
+C:\Users\Daniel\source\repos\CSharp-advanced-StreamsAndFiles\06.ZipAndExtract\bin\Debug\net5.0\ref\06.ZipAndExtract.dll
+C:\Users\Daniel\source\repos\CSharp-advanced-StreamsAndFiles\06.ZipAndExtract\bin\Debug\net5.0\06.ZipAndExtract.pdb
+C:\Users\Daniel\source\repos\CSharp-advanced-StreamsAndFiles\06.ZipAndExtract\obj\Debug\net5.0\06.ZipAndExtract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\source\repos\CSharp-advanced-StreamsAndFiles\06.ZipAndExtract\obj\Debug\net5.0\06.ZipAndExtract.AssemblyInfoInputs.cache
+C:\Users\Daniel\source\repos\CSharp-advanced-StreamsAndFiles\06.ZipAndExtract\obj\Debug\net5.0\06.ZipAndExtract.AssemblyInfo.cs
+C:\Users\Daniel\source\repos\CSharp-advanced-StreamsAndFiles\06.ZipAndExtract\obj\Debug\net5.0\06.ZipAndExtract.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\source\repos\CSharp-advanced-StreamsAndFiles\06.ZipAndExtract\obj\Debug\net5.0\06.ZipAndExtract.dll
+C:\Users\Daniel\source\repos\CSharp-advanced-StreamsAndFiles\06.ZipAndExtract\obj\Debug\net5.0\ref\06.ZipAndExtract.dll
+C:\Users\Daniel\source\repos\CSharp-advanced-StreamsAndFiles\06.ZipAndExtract\obj\Debug\net5.0\06.ZipAndExtract.pdb
+C:\Users\Daniel\source\repos\CSharp-advanced-StreamsAndFiles\06.ZipAndExtract\obj\Debug\net5.0\06.ZipAndExtract.genruntimeconfig.cache
