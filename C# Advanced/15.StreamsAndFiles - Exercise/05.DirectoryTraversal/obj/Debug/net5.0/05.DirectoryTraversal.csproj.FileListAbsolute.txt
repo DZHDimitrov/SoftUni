@@ -1,0 +1,15 @@
+C:\Users\Daniel\source\repos\CSharp-advanced-StreamsAndFiles\05.DirectoryTraversal\bin\Debug\net5.0\05.DirectoryTraversal.exe
+C:\Users\Daniel\source\repos\CSharp-advanced-StreamsAndFiles\05.DirectoryTraversal\bin\Debug\net5.0\05.DirectoryTraversal.deps.json
+C:\Users\Daniel\source\repos\CSharp-advanced-StreamsAndFiles\05.DirectoryTraversal\bin\Debug\net5.0\05.DirectoryTraversal.runtimeconfig.json
+C:\Users\Daniel\source\repos\CSharp-advanced-StreamsAndFiles\05.DirectoryTraversal\bin\Debug\net5.0\05.DirectoryTraversal.runtimeconfig.dev.json
+C:\Users\Daniel\source\repos\CSharp-advanced-StreamsAndFiles\05.DirectoryTraversal\bin\Debug\net5.0\05.DirectoryTraversal.dll
+C:\Users\Daniel\source\repos\CSharp-advanced-StreamsAndFiles\05.DirectoryTraversal\bin\Debug\net5.0\ref\05.DirectoryTraversal.dll
+C:\Users\Daniel\source\repos\CSharp-advanced-StreamsAndFiles\05.DirectoryTraversal\bin\Debug\net5.0\05.DirectoryTraversal.pdb
+C:\Users\Daniel\source\repos\CSharp-advanced-StreamsAndFiles\05.DirectoryTraversal\obj\Debug\net5.0\05.DirectoryTraversal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\source\repos\CSharp-advanced-StreamsAndFiles\05.DirectoryTraversal\obj\Debug\net5.0\05.DirectoryTraversal.AssemblyInfoInputs.cache
+C:\Users\Daniel\source\repos\CSharp-advanced-StreamsAndFiles\05.DirectoryTraversal\obj\Debug\net5.0\05.DirectoryTraversal.AssemblyInfo.cs
+C:\Users\Daniel\source\repos\CSharp-advanced-StreamsAndFiles\05.DirectoryTraversal\obj\Debug\net5.0\05.DirectoryTraversal.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\source\repos\CSharp-advanced-StreamsAndFiles\05.DirectoryTraversal\obj\Debug\net5.0\05.DirectoryTraversal.dll
+C:\Users\Daniel\source\repos\CSharp-advanced-StreamsAndFiles\05.DirectoryTraversal\obj\Debug\net5.0\ref\05.DirectoryTraversal.dll
+C:\Users\Daniel\source\repos\CSharp-advanced-StreamsAndFiles\05.DirectoryTraversal\obj\Debug\net5.0\05.DirectoryTraversal.pdb
+C:\Users\Daniel\source\repos\CSharp-advanced-StreamsAndFiles\05.DirectoryTraversal\obj\Debug\net5.0\05.DirectoryTraversal.genruntimeconfig.cache

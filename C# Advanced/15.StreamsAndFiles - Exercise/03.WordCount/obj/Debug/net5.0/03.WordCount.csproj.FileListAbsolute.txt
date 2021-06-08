@@ -1,0 +1,16 @@
+C:\Users\Daniel\source\repos\CSharp-advanced-StreamsAndFiles\03.WordCount\bin\Debug\net5.0\03.WordCount.exe
+C:\Users\Daniel\source\repos\CSharp-advanced-StreamsAndFiles\03.WordCount\bin\Debug\net5.0\03.WordCount.deps.json
+C:\Users\Daniel\source\repos\CSharp-advanced-StreamsAndFiles\03.WordCount\bin\Debug\net5.0\03.WordCount.runtimeconfig.json
+C:\Users\Daniel\source\repos\CSharp-advanced-StreamsAndFiles\03.WordCount\bin\Debug\net5.0\03.WordCount.runtimeconfig.dev.json
+C:\Users\Daniel\source\repos\CSharp-advanced-StreamsAndFiles\03.WordCount\bin\Debug\net5.0\03.WordCount.dll
+C:\Users\Daniel\source\repos\CSharp-advanced-StreamsAndFiles\03.WordCount\bin\Debug\net5.0\ref\03.WordCount.dll
+C:\Users\Daniel\source\repos\CSharp-advanced-StreamsAndFiles\03.WordCount\bin\Debug\net5.0\03.WordCount.pdb
+C:\Users\Daniel\source\repos\CSharp-advanced-StreamsAndFiles\03.WordCount\obj\Debug\net5.0\03.WordCount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\source\repos\CSharp-advanced-StreamsAndFiles\03.WordCount\obj\Debug\net5.0\03.WordCount.AssemblyInfoInputs.cache
+C:\Users\Daniel\source\repos\CSharp-advanced-StreamsAndFiles\03.WordCount\obj\Debug\net5.0\03.WordCount.AssemblyInfo.cs
+C:\Users\Daniel\source\repos\CSharp-advanced-StreamsAndFiles\03.WordCount\obj\Debug\net5.0\03.WordCount.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\source\repos\CSharp-advanced-StreamsAndFiles\03.WordCount\obj\Debug\net5.0\03.WordCount.dll
+C:\Users\Daniel\source\repos\CSharp-advanced-StreamsAndFiles\03.WordCount\obj\Debug\net5.0\ref\03.WordCount.dll
+C:\Users\Daniel\source\repos\CSharp-advanced-StreamsAndFiles\03.WordCount\obj\Debug\net5.0\03.WordCount.pdb
+C:\Users\Daniel\source\repos\CSharp-advanced-StreamsAndFiles\03.WordCount\obj\Debug\net5.0\03.WordCount.genruntimeconfig.cache
+C:\Users\Daniel\source\repos\CSharp-advanced-StreamsAndFiles\03.WordCount\obj\Debug\net5.0\03.WordCount.csprojAssemblyReference.cache
