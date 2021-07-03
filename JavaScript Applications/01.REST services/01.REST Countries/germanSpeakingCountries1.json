@@ -1,0 +1,27 @@
+
+[
+    {"_url":"https://restcountries.eu/rest/v2/lang/de?fields=name"},
+    
+    {
+        "name": "Austria"
+    },
+    {
+        "name": "Belgium"
+    },
+    {
+        "name": "Germany"
+    },
+    {
+        "name": "Holy See"
+    },
+    {
+        "name": "Liechtenstein"
+    },
+    {
+        "name": "Luxembourg"
+    },
+    {
+        "name": "Switzerland"
+    }
+    
+]

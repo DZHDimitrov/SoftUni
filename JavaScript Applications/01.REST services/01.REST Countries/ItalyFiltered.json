@@ -1,0 +1,10 @@
+[
+    {
+        "_url":"https://restcountries.eu/rest/v2/name/Italy?fields=name;capital;region;population",
+        
+        "name": "Italy",
+        "capital": "Rome",
+        "region": "Europe",
+        "population": 60665551
+    }
+]
