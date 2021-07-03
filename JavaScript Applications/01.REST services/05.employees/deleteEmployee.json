@@ -1,0 +1,6 @@
+{
+    "_url": "http://dummy.restapiexample.com/api/v1/delete/2 HTTP DELETE",
+    "status": "success",
+    "data": "2",
+    "message": "Successfully! Record has been deleted"
+}
