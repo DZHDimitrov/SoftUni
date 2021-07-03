@@ -1,0 +1,14 @@
+{
+    "_solution":"http://dummy.restapiexample.com/api/v1/create - POST",
+    "status": "success",
+    "data": {
+        "data": {
+            "employee_name": "Peter Hock",
+            "employee_salary": 25000,
+            "employee_age": 31,
+            "profile_image": null
+        },
+        "id": 330
+    },
+    "message": "Successfully! Record has been added."
+}
