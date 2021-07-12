@@ -1,0 +1,1 @@
+export const createMovieBtn = document.getElementById('createMovieLink');
