@@ -1,0 +1,13 @@
+.o-buy-button{
+    width:180px;
+    height:45px;
+    font-size:14px;
+    line-height: 16px;
+    text-transform: uppercase;
+    background: white;
+    font-weight: 500;
+}
+
+.o-buy-button:hover {
+    cursor: pointer;
+}

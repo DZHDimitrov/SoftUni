@@ -1,0 +1,42 @@
+.c-site-product-info-brand {
+    font-size:14px;
+    line-height: 16px;
+    font-weight: bold;
+}
+
+.c-site-product-info-description {
+    font-weight: 300;
+    font-size: 13px;
+    line-height: 15px;
+    color:#777777
+}
+
+.c-site-product-info-old-price {
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    text-decoration-line: line-through;
+}
+
+.c-site-product-info-new-price{
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    color:#E74B54;
+}
+
+.c-site-product-info-normal-price {
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 16px;
+}
+
+.c-site-product-info-colors {
+    font-style: normal;
+    font-weight: 300;
+    font-size: 13px;
+    line-height: 15px;
+    text-align: center;
+    text-transform: lowercase;
+    color:#777777
+}

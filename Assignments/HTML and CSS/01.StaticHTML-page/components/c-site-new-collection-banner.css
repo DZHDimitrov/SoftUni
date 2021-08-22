@@ -1,0 +1,32 @@
+.c-site-new-collection-banner{
+    height: 100px;
+    position: relative;
+    background: #557FEB;
+    margin:0 auto
+}
+
+.new-collection-text-wrapper{
+    display: flex;
+    color:white;
+    align-content: center;
+    align-items: center;
+    z-index: 1;
+}
+
+.new-collection-text-wrapper .new-collection{
+    margin-top:21px;
+    margin-bottom: 10px;
+    font-weight: 700;
+    font-size:14px;
+}
+.new-collection-text-wrapper .season{
+    background:#333333;
+    padding:5px 15px 5px 15px;
+    font-size:17px;
+    line-height: 21px;
+    margin-bottom: 32px;
+    font-size:17px;
+    font-weight: 100;
+    letter-spacing: 3px;
+}
+

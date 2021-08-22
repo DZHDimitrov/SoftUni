@@ -1,0 +1,26 @@
+.main-page-wrapper{
+    width: 100%;
+    max-width: 1925px;
+    margin:0 auto;
+    display: flex;
+    flex-flow:column wrap;
+}
+
+.o-initial-site-heading {
+    width: 100%;
+    margin: 0 auto;
+    display: flex;
+    flex-flow:column wrap;
+}
+
+.o-primary-page-wrapper{
+    width: 100%;
+    margin: 0 auto;
+    display: flex;
+    flex-flow:column wrap;
+}
+
+.o-secondary-page-wrapper{
+    display: flex;
+    flex-flow:column wrap;
+}

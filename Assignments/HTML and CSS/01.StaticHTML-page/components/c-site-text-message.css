@@ -1,0 +1,28 @@
+.c-site-text-message {
+    display: flex;
+    flex-flow: row wrap;
+    margin: 0;
+    height:40px;
+    text-align: center;
+    background-color: #E94B49;
+    color:white;
+    align-content: center;
+}
+
+.c-site-text-message h5 {
+    margin:0;
+    font-weight:550;
+    flex:1;
+}
+
+@media all and (max-width:450px){
+    .c-site-text-message {
+        height: 75px;
+        margin-top: 9px;
+    }
+
+    .c-site-text-message h5 {
+        font-size: 18px;
+        line-height: 1.5;
+    }
+}

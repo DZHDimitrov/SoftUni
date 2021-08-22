@@ -1,0 +1,10 @@
+.o-main-text-upper-case{
+    margin:0;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+}
+
+.o-main-text-normal-case{
+    margin:0;
+    letter-spacing: 0.2em;
+}

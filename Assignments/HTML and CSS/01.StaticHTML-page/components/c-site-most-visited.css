@@ -1,0 +1,36 @@
+.c-site-most-visited{
+    display: flex;
+    flex-flow: row wrap;
+    margin-top: 100px;
+    align-content: center;
+    margin: 0 auto;
+    margin-top: 40px;
+    width:83%;
+    justify-content: space-between;
+}
+
+@media all and (max-width:450px){
+    .c-site-most-visited {
+        justify-content: center;
+    }
+}
+
+.c-site-most-visited .most-visited-pages{
+    width: 230px;
+    height: 230px;
+    position: relative;
+    margin: 0px 1px 35px 1px;
+    display: flex;
+    justify-content: center;
+}
+
+.c-site-most-visited .most-visited-pages h5{
+    position: absolute;
+    bottom: 0;
+    color:white;
+    font-size: 20px;
+    font-weight: lighter;
+    letter-spacing: 0.5px;
+    margin:0;
+    margin-bottom: 15px;
+}

@@ -1,0 +1,19 @@
+.c-site-notification{
+    position: absolute;
+    right: -11px;
+    top: -8px;
+}
+
+.c-site-notification span {
+    position: absolute;
+    font-weight: 500;
+}
+
+.c-site-notification #favourite {
+    bottom: 3px;
+    left: 2px;
+}
+.c-site-notification #bag {
+    top: 4px;
+    left: 6px;
+}

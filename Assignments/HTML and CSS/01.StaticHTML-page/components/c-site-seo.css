@@ -1,0 +1,36 @@
+.s-site-seo-wrapper {
+    display: flex;
+    flex-flow: row wrap;
+    margin-top: 100px;
+    align-content: flex-start;
+    margin: 0 auto;
+    margin-top: 40px;
+    width:83%;
+}
+.s-site-seo-wrapper > * {
+    float:left;
+}
+
+.s-site-seo-wrapper p  {
+    font-size: 13px;
+    line-height:18px;
+    color: #CFCFCF;
+    font-weight: 300;
+}
+
+#viewMore {
+    cursor: pointer;
+}
+
+@media all and (max-width: 900px) {
+    .s-site-seo-wrapper p{
+        font-size: 15px;
+    }
+}
+
+@media all and (max-width:450px) {
+    .s-site-seo-wrapper p{
+        font-size: 17px;
+        line-height: 1.5;
+    }
+}

@@ -1,0 +1,9 @@
+input {
+    outline: none;
+}
+
+input::-webkit-input-placeholder{
+    font-size: 13px;
+    line-height: 15px;
+    color: #999999;
+}

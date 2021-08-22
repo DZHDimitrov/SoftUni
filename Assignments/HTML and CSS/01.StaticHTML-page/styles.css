@@ -1,0 +1,46 @@
+@import url('./test.css');
+@import url('./generic/generic-normalize.css');
+@import url('./elements/elements-links.css');
+@import url('./elements/elements-body.css');
+@import url('./elements/elements-headings.css');
+@import url('./elements/elements-paragraphs.css');
+@import url('./elements/elements-list-items.css');
+@import url('./elements/elements-images.css');
+@import url('./elements/elements-input.css');
+@import url('./elements/elements-footer.css');
+
+@import url('./objects/object-page-wrapper.css');
+@import url('./objects/object-containers.css');
+@import url('./objects/object-navigation.css');
+@import url('./objects/object-inside-icon.css');
+@import url('./objects/object-main-slider-text.css');
+@import url('./objects/object-buy-button.css');
+@import url('./objects/object-logo.css');
+@import url('./objects/object-margin.css');
+@import url('./objects/object-model.css');
+@import url('./objects/object-position.css');
+@import url('./objects/object-casual-link.css');
+
+@import url('./components/c-site-header-before.css');
+@import url('./components/c-site-profile.css');
+@import url('./components/c-site-profi.css');
+@import url('./components/c-site-notification.css');
+@import url('./components/c-site-secondary-line.css');
+@import url('./components/c-site-navigation-item.css');
+@import url('./components/c-site-text-message.css');
+@import url('./components/c-site-new-collection-banner.css');
+@import url('./components/c-site-main-banner.css');
+@import url('./components/c-site-most-visited.css');
+@import url('./components/c-site-buy-now.css');
+@import url('./components/c-site-collection.css');
+@import url('./components/c-site-new-products.css');
+@import url('./components/c-site-product-info.css');
+@import url('./components/c-site-product-swiper.css');
+@import url('./components/c-site-more.css');
+@import url('./components/c-site-seo.css');
+@import url('./components/c-site-primary-footer.css');
+@import url('./components/c-site-media-and-payment.css');
+
+@import url('./utilities/u-vector-style.css');
+
+@import url('https://unpkg.com/swiper/swiper-bundle.min.css');

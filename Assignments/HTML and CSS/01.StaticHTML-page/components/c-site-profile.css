@@ -1,0 +1,20 @@
+.c-site-profile{
+    margin-left: 5px;
+    position: relative;
+}
+
+.c-site-profile.profile-icons{
+    margin-left: 15px;
+}
+
+.c-site-profile .check {
+    width: 13px;
+    right: -7px;
+    left: 11px;
+    bottom: -5px;
+}
+.c-site-profile .elipse {
+    width: 18px;
+    top:0;
+    right:0;
+}

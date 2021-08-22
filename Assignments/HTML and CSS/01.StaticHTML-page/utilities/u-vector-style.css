@@ -1,0 +1,203 @@
+.vector{
+    position:absolute;
+}
+
+.vector-medium {
+    width: 24.88px;
+    height: 20.31px;
+}
+
+.vector-medium.v22{
+    right: 1%;
+    top: 33%;
+}
+
+.vector-medium.v28{
+    left: 39.7%;
+    top: 23%;
+}
+
+.vector-medium.v29{
+    bottom: 12%;
+    left: 38.7%;
+}
+.vector-medium.v24{
+    left: 27%;
+    top: 38%;
+}
+
+.vector-medium.v14{
+    top: 50%;
+    left: 1%;
+}
+
+.vector-medium.v31 {
+    left: 66%;
+    top: 14%;
+}
+
+.vector-medium.v25 {
+    bottom: 10%;
+    right: 30%;
+}
+
+.vector-medium.v32 {
+    right: 39.5%;
+    bottom: 7%;
+}
+
+.vector-medium.v27{
+    left: 36.5%;
+    top: 20%;
+}
+
+.vector-medium.v12 {
+    bottom: 32%;
+    left: 24.5%;
+}
+
+.vector-small {
+    width: 13.28px;
+    height: 10.84px;
+}
+
+.vector-small.v39{
+    bottom: 5%;
+    left: 54.8%;
+}
+
+.vector-small.v38{
+    left: 43.5%;
+    top: 11%;
+}
+
+.v21 {
+    width: 37.62px;
+    height: 20.31px;
+    right: 25%;
+    bottom: 49%;
+}
+
+.vector-medium-large{
+    width:33.69px;
+    height:27.5px;
+}
+
+.vector-medium-large.v36{
+    right: 32%;
+    bottom: 21%;
+}
+
+.vector-medium-large.v26{
+    right: 29%;
+    top: 28%;
+}
+
+.vector-medium-large.v20{
+    right: 17.3%;
+    top: 27%;
+}
+
+.vector-medium-large.v11{
+    top: 46%;
+    left: 16.8%;
+}
+
+.vector-medium.v30 {
+    right: 40.8%;
+    top: 9%;
+}
+
+.v40 {
+    width:10.82px;
+    height: 9.55px;
+    bottom: 5%;
+    left: 45%;
+}
+
+.vector-medium-small {
+    width: 18.60px;
+    height:15.18px;
+}
+
+.vector-medium-small.v41{
+    left: 55.6%;
+    top: 5%;
+}
+
+.vector-medium-small.v42{
+    bottom: 6.5%;
+    left: 43.5%;
+}
+
+.vector-medium-small.v33 {
+    left: 62%;
+    top: 44%;
+}
+
+.vector-medium-small.v23{
+    left: 35.5%;
+    top: 51%;
+}
+
+.vector-large{
+    width:49px;
+    height:42px;
+}
+.vector-large.v19{
+    right: 9.7%;
+}
+.vector-large.v15{
+    bottom: 0;
+    left: 9.7%;
+}
+.vector-large.v18{
+    right: 21%;
+    bottom: 0;
+}
+.vector-large.v10{
+    left: 21%;
+}
+
+.v37{
+    width: 40.23px;
+    height: 24.14px;
+    top: 50%;
+    left: 29.5%;
+}
+
+.v34,.v35{
+    width: 21.47px;
+    height: 31px;
+}
+.v35 {
+    right: 13%;
+    top: 46%;
+}
+.v34 {
+    top: 30%;
+    left: 14%;
+}
+
+.vector-large-medium-height{
+    width:48.5px;
+    height:21px;
+}
+.vector-large-medium-height.v17{
+    right: 2.5%;
+    bottom: 0;
+}
+.vector-large-medium-height.v13{
+    left: 2.5%;
+}
+.vector-large-medium-height.v16{
+    right: 26%;
+}
+.vector-large-medium-height.v9{
+    bottom: 0;
+    left: 24%;
+}
+
+
+
+

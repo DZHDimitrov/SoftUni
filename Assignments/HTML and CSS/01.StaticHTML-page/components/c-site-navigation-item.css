@@ -1,0 +1,33 @@
+.c-site-navigation-item {
+    font-size: 14px;
+    line-height: 16px;
+    font-style: normal;
+    color: #333333;
+    margin-right: 15px;
+    font-weight: 600;
+}
+
+.c-site-navigation-item.sale {
+    color: red;
+    font-weight: 600;
+ }
+
+ @media all and (max-width: 900px) {
+    .c-site-secondary-line ul {
+        width:202px;
+        line-height:30px;
+        margin-left: 13px;
+    }
+ }
+
+ @media all and (max-width: 450px){
+    .c-site-secondary-line ul li a {
+        font-size: 16px;
+    }
+    .c-site-secondary-line ul{
+        
+        width: 215px;
+    }
+ }
+
+ 

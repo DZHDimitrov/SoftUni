@@ -1,0 +1,39 @@
+.c-site-collection{
+    margin-top: 100px;
+    align-content: center;
+    margin: 0 auto;
+    margin-top: 150px;
+    width:83%;
+    justify-content: space-around;
+}
+@media all and (max-width:1536px){
+    .c-site-collection{
+        margin-top: 20px;
+    }
+}
+
+.collection{
+    width:375px;
+    height:375px;
+    position: relative;
+    justify-content: center;
+    display: flex;
+    margin-bottom: 50px;
+}
+.collection-description{
+    position: absolute;
+    bottom:15px;
+    text-align: center;
+    color: white;
+}
+.collection-description h2 {
+    font-weight: 500;
+    margin-bottom: 10px;
+}
+
+.collection-description a{
+    margin: 0;
+    font-size: 16px;
+    line-height: 18.75px;
+    color:white;
+}

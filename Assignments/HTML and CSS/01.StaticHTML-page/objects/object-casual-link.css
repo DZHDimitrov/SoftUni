@@ -1,0 +1,12 @@
+.o-casual-link-white {
+    color:white;
+}
+
+.o-casual-link-grey:hover,
+.o-casual-link-black:hover {
+    text-decoration:underline;
+}
+
+.o-casual-link-grey {
+    color:#BCBCBC;
+}

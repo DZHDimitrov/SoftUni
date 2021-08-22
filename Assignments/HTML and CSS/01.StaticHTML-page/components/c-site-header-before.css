@@ -1,0 +1,39 @@
+.c-site-header-primary {
+    background: #333333;
+    color: white;
+    justify-content: space-around;
+}
+
+@media all and (max-width: 450px){
+    .c-site-header-primary ul{
+        margin-left: 183px
+    }
+    .c-site-header-primary {
+        height: 110px;
+    }
+}
+
+.gender {
+    position: relative;
+}
+
+.c-site-header-primary .gender h3:first-child{
+    margin-right: 15px;
+    font-weight: bold;
+}
+
+.c-site-header-primary .gender h3:nth-child(2){
+    font-weight: 300;
+}
+
+.c-site-header-primary .gender img{
+    position: absolute;
+    bottom: 0;
+    right:0;
+    width: 17px;
+    left: 16px;
+}
+
+.site-logo.o-column-container img{
+    flex: 1;
+}

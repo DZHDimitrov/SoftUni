@@ -1,0 +1,169 @@
+.c-site-media-and-payment{
+    display:flex;
+    flex-flow:row wrap;
+    width:100%;
+}
+
+@media all and (max-width: 900px){
+    .c-site-media-and-payment {
+        flex-flow: column wrap;
+        height: 366px;
+    }
+
+    .social-media-partners-wrapper{
+        display: flex;
+        flex-flow: column wrap !important;
+        justify-content: space-around;
+        margin-top:20px;
+        width:650px;
+    }
+    .follow-us {
+        width:230px !important;
+    }
+    .payment-method-wrapper {
+        width: 379px !important;
+    }
+    .c-site-media-and-payment .fashion {
+        margin-top: 20px;
+    }
+}
+
+@media all and (max-width: 450px){
+    .social-media-partners-wrapper {
+        width:332px;
+    }
+
+    .follow-us {
+        width: 256px !important
+    }
+
+    .follow-us p {
+        font-size: 16px;
+    }
+
+    .payment-method-wrapper {
+        justify-content: space-between !important;
+    }
+    .payment-method-wrapper p {
+        width: 89px;
+        font-size: 16px
+    }
+
+    .delivery p {
+        font-size: 16px
+    }
+}
+
+.c-site-media-and-payment .fashion {
+    width: 17%;
+    display:flex;
+    align-items: center;
+}
+.c-site-media-and-payment img:nth-child(1){
+    width: 100px;
+    height: 18px;
+}
+.social-media-partners-wrapper {
+    width: 70%;
+    display: flex;
+    flex-flow:row wrap;
+    justify-content: space-between;
+}
+.follow-us{
+    display: flex;
+    flex-flow: row wrap;
+    align-items: center;
+    justify-content: space-between;
+    width:22%;
+    position: relative;
+}
+
+
+.follow-us p {
+    color: #444444;
+}
+
+.follow-us img,
+.payment-method-wrapper img
+ {
+    width: 32px;
+    height:27px;
+}
+.payment-method-wrapper {
+    display:flex;
+    flex-flow: row wrap;
+    align-items: center;
+    justify-content: space-around;
+    width:40%;
+    position: relative;
+}
+.paypal {
+    width: 70px !important;
+    height: 40px !important;
+}
+.cash-on-delivery {
+    border: 2px solid #DBDBDB;
+    color: #B2B2B2;
+    padding: 4px;
+    border-radius: 5px;
+}
+.cash-on-delivery h5 {
+    font-weight: 300;
+    text-align: center;
+}
+.delivery {
+    display: flex;
+    flex-flow: row wrap;
+    justify-items: center;
+    align-items: center;
+}
+.delivery img {
+    width: 80px;
+    margin-left: 5px;
+}
+
+@media all and (min-width: 1200px){
+    .follow-us::after{
+        display: block;
+        width: 0.5px;
+        height: 30px;
+        position: absolute;
+        background-color:#F3F3F3;
+        content: '';
+        right: -23%;
+    }
+    
+    .payment-method-wrapper:after {
+        display: block;
+        width: 0.5px;
+        height: 30px;
+        position: absolute;
+        background-color:#F3F3F3;
+        content: '';
+        right:-12%;
+    }
+}
+
+@media all and (min-width: 900px) and (max-width:1200px){
+    .follow-us::after{
+        display: block;
+        width: 0.5px;
+        height: 108px;
+        top:-1px;;
+        position: absolute;
+        background-color:#DFDFDF;
+        content: '';
+        right: -7px;
+    }
+    
+    .payment-method-wrapper:after {
+        display: block;
+        width: 0.5px;
+        height: 108px;
+        position: absolute;
+        background-color:#DFDFDF;
+        content: '';
+        top:-1px;
+        right: -7px;
+    }
+}
