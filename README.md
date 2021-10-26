@@ -5,6 +5,9 @@
     <ol type="1">
       <li>Variables</li>
       <li>Conditional statements</li>
+      <li>Nested conditional statements</li>
+      <li>Loops</li>
+      <li>Nested loops</li>
     </ol>
   </li>
 </ul>
