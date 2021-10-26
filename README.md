@@ -2,7 +2,7 @@
 <ul>
   <li>
     C# Basics
-    <ol>
+    <ol type="1">
       <li>Variables</li>
       <li>Conditional statements</li>
     </ol>
