@@ -4,7 +4,7 @@
     <th>C# Fundamentals</th>
   </tr>
   <tr>
-    <td>Conditional statements</td>
+    <td>Variables</td>
     <td>HTTP basics</td>
   </tr>
   <tr>
@@ -12,7 +12,7 @@
     <td>Database basics</td>
   </tr>
   <tr>
-    <td>Loops</td>
+    <td>Conditional statements</td>
     <td>Data Types and Variables</td>
   </tr>
   <tr>
@@ -20,7 +20,7 @@
     <td>Methods</td>
   </tr>
   <tr>
-    <td></td>
+    <td>Loops</td>
     <td>Lists</td>
   </tr>
   <tr>
