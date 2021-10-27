@@ -1,3 +1,32 @@
+<table>
+  <tr>
+    <th>C# Basics</th>
+    <th>C# Fundamentals</th>
+  </tr>
+  <tr>
+    <td>Variables</td>
+    <td>HTML & CSS basics</td>
+    <td>Conditional statements</td>
+    <td>HTTP basics</td>
+    <td>Nested conditional statements</td>
+    <td>Database basics</td>
+    <td>Loops</td>
+    <td>Data Types and Variables</td>
+    <td>Nested loops</td>
+    <td>Methods</td>
+    <td></td>
+    <td>Lists</td>
+    <td></td>
+    <td>Objects and Classes</td>
+    <td></td>
+    <td>Associative Arrays</td>
+    <td></td>
+    <td>Text Processing</td>
+    <td></td>
+    <td>Regular Expressions</td>
+  </tr>
+</table>
+
 <h2>SoftUni - Courses Info</h2>
 <ul type="circle">
   <li>
