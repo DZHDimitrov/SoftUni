@@ -23,11 +23,11 @@
   </tr>
   <tr>
     <td>While loop</td>
-    <td>Lists</td>
+    <td>Arrays</td>
   </tr>
   <tr>
     <td>Nested loops</td>
-    <td>Objects and Classes</td>
+    <td>Lists</td>
   </tr>
   <tr>
     <td></td>
@@ -40,5 +40,9 @@
   <tr>
     <td></td>
     <td>Regular Expressions</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Objects and Classes</td>
   </tr>
 </table>
