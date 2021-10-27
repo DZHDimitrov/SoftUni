@@ -10,11 +10,11 @@
     <td>HTTP basics</td>
   </tr>
   <tr>
-    <td>Nested conditional statements</td>
+    <td>Conditional statements</td>
     <td>Database basics</td>
   </tr>
   <tr>
-    <td>Conditional statements</td>
+    <td>Nested conditional statements</td>
     <td>Data Types and Variables</td>
   </tr>
   <tr>
