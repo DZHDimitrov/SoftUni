@@ -1,3 +1,4 @@
+<h2>SoftUni - Courses Info</h2>
 <ul type="circle">
   <li>
     <h3>C# Basics</h3>
