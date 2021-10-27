@@ -1,4 +1,12 @@
 <h2>SoftUni - Courses info</h2>
+<table>
+  <th>C# Basics</th>
+  <tr>
+    <td>Variables</td>
+    <td>Variables</td>
+    <td>Variables</td>
+  </tr>
+</table>
 <ul type="circle">
   <li>
     <h3>C# Basics</h3>
