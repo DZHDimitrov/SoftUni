@@ -49,11 +49,11 @@
   <tr>
     <td></td>
     <td>Objects and Classes</td>
-    <td></td>
+    <td>Linked list</td>
   </tr>
   <tr>
     <td></td>
     <td>Regular expressions</td>
-    <td></td>
+    <td>Algorithms introduction</td>
   </tr>
 </table>
