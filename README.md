@@ -13,6 +13,9 @@
   <li>
     <h3>C# Fundamentals</h3>
     <ol type="1">
+      <li>HTML & CSS basics</li>
+      <li>HTTP basics</li>
+      <li>Database basics</li>
       <li>Data Types and Variables</li>
       <li>Methods</li>
       <li>Lists</li>
