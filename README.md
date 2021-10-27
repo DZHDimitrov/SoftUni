@@ -18,15 +18,15 @@
     <td>Data Types and Variables</td>
   </tr>
   <tr>
-    <td>Loops</td>
+    <td>For loop</td>
     <td>Methods</td>
   </tr>
   <tr>
-    <td>Nested loops</td>
+    <td>While loop</td>
     <td>Lists</td>
   </tr>
   <tr>
-    <td></td>
+    <td>Nested loops</td>
     <td>Objects and Classes</td>
   </tr>
   <tr>
