@@ -4,24 +4,38 @@
     <th>C# Fundamentals</th>
   </tr>
   <tr>
-    <td>Variables</td>
-    <td>HTML & CSS basics</td>
     <td>Conditional statements</td>
     <td>HTTP basics</td>
+  </tr>
+  <tr>
     <td>Nested conditional statements</td>
     <td>Database basics</td>
+  </tr>
+  <tr>
     <td>Loops</td>
     <td>Data Types and Variables</td>
+  </tr>
+  <tr>
     <td>Nested loops</td>
     <td>Methods</td>
+  </tr>
+  <tr>
     <td></td>
     <td>Lists</td>
+  </tr>
+  <tr>
     <td></td>
     <td>Objects and Classes</td>
+  </tr>
+  <tr>
     <td></td>
     <td>Associative Arrays</td>
+  </tr>
+  <tr>
     <td></td>
     <td>Text Processing</td>
+  </tr>
+  <tr>
     <td></td>
     <td>Regular Expressions</td>
   </tr>
