@@ -2,13 +2,14 @@
 <table>
   <th>C# Basics</th>
   <tr>
-    Variables
+    <td>
+      Variables
+    </td>
   </tr>
   <tr>
-    Variables
-  </tr>
-  <tr>
-    Variables
+    <td>
+      Variables
+    </td>
   </tr>
 </table>
 <ul type="circle">
