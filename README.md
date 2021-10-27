@@ -48,10 +48,12 @@
   </tr>
   <tr>
     <td></td>
-     <td>Objects and Classes</td>
+    <td>Objects and Classes</td>
+    <td></td>
   </tr>
   <tr>
     <td></td>
     <td>Regular expressions</td>
+    <td></td>
   </tr>
 </table>
