@@ -39,10 +39,10 @@
   </tr>
   <tr>
     <td></td>
-    <td>Regular Expressions</td>
+     <td>Objects and Classes</td>
   </tr>
   <tr>
     <td></td>
-    <td>Objects and Classes</td>
+    <td>Regular expressions</td>
   </tr>
 </table>
