@@ -1,5 +1,5 @@
 
-<h2>SoftUni - Courses Info</h2>
+<h2>SoftUni - Acquired knowledge</h2>
 <table>
   <tr>
     <th>C# Basics</th>
