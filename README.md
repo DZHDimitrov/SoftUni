@@ -18,11 +18,11 @@
     <td>Data Types and Variables</td>
   </tr>
   <tr>
-    <td>Nested loops</td>
+    <td>Loops</td>
     <td>Methods</td>
   </tr>
   <tr>
-    <td>Loops</td>
+    <td>Nested loops</td>
     <td>Lists</td>
   </tr>
   <tr>
