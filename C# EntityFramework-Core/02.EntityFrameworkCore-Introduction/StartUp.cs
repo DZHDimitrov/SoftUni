@@ -88,6 +88,44 @@
             }
             return sb.ToString().TrimEnd();
         }
+        
+        public static string GetEmployeesInPeriod(SoftUniContext context)
+        {
+            var sb = new StringBuilder();
+            var employees = context.Employees
+                .Where(x => x.EmployeesProjects
+                             .Any(y => y.Project.StartDate.Year >= 2001 && y.Project.StartDate.Year <= 2003))
+                .Select(x =>
+                new
+                {
+                    FirstName = x.FirstName,
+                    LastName = x.LastName,
+                    ManagerFirstName = x.Manager.FirstName,
+                    ManagerLastName = x.Manager.LastName,
+                    Projects = x.EmployeesProjects
+                                .Where(y => y.EmployeeId == x.EmployeeId)
+                                .Select(x => new
+                                {
+                                    ProjectName = x.Project.Name,
+                                    StartDate = x.Project.StartDate.ToString("M/d/yyyy h:mm:ss tt", CultureInfo.InvariantCulture),
+                                    EndDate = x.Project.EndDate.HasValue ?
+                                              x.Project.EndDate.Value.ToString("M/d/yyyy h:mm:ss tt", CultureInfo.InvariantCulture) 
+                                              : "not finished"
+                                }).ToList()
+                })
+                .Take(10)
+                .ToList();
+            foreach (var emp in employees)
+            {
+                sb.AppendLine($"{emp.FirstName} {emp.LastName} - Manager: {emp.ManagerFirstName} {emp.ManagerLastName}");
+
+                foreach (var project in emp.Projects)
+                {
+                    sb.AppendLine($"--{project.ProjectName} - {project.StartDate} - {project.EndDate}");
+                }
+            }
+            return sb.ToString().TrimEnd();
+        }
 
         public static string GetAddressesByTown(SoftUniContext context)
         {
