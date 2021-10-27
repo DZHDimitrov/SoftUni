@@ -1,17 +1,3 @@
-<h2>SoftUni - Courses info</h2>
-<table>
-  <tr>
-    <th>C# Basics</th>
-    <th>C# Fundamentals</th>
-  </tr>
-  <td>
-    <tr>Variables</tr>
-    <tr>Conditional statements</tr>
-    <tr>Nested conditional statements</tr>
-    <tr>Loops</tr>
-    <tr>Nested loops</tr>
-  </td>
-</table>
 <ul type="circle">
   <li>
     <h3>C# Basics</h3>
