@@ -18,7 +18,7 @@
   </tr>
   <tr>
     <td>Nested conditional statements</td>
-    <td>Data Types and Variables&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td>Data Types and Variables&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
     <td>Sets and Dictionaries Advanced</td>
   </tr>
   <tr>
