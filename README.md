@@ -67,7 +67,7 @@
   <tr>
     <td>Inheritance</td>
     <td>CRUD</td>
-    <td>Code first,DB first,Migrations</td>
+    <td>Code first, DB first, Migrations</td>
   </tr>
   <tr>
     <td>Encapsulation</td>
