@@ -75,7 +75,7 @@
     <td>LINQ</td>
   </tr>
   <tr>
-    <td>Interfaces and Abstraction&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td>Interfaces and Abstraction&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
     <td>Built-in Functions</td>
     <td>Advanced querying</td>
   </tr>
