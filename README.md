@@ -97,7 +97,7 @@
   <tr>
     <td>Reflection and attributes</td>
     <td>Triggers and Transactions</td>
-    <td>NoSQL - introduction to MongoDB&nbsp;</td>
+    <td>NoSQL - introduction to MongoDB</td>
   </tr>
   <tr>
     <td>Mocking and TDD</td>
