@@ -19,7 +19,7 @@
   <tr>
     <td>Nested conditional statements</td>
     <td>Data Types and Variables&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
-    <td>Sets and Dictionaries Advanced&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td>Sets and Dictionaries Advanced&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
   </tr>
   <tr>
     <td>For loop</td>
