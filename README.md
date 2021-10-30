@@ -57,3 +57,56 @@
     <td>Algorithms introduction</td>
   </tr>
 </table>
+
+<table>
+  <tr>
+    <th>C# OOP</th>
+    <th>MS SQL</th>
+    <th>EntityFramework Core</th>
+  </tr>
+  <tr>
+    <td>Inheritance</td>
+    <td>CRUD</td>
+    <td>Entity Relations</td>
+  </tr>
+  <tr>
+    <td>Encapsulation</td>
+    <td>Table Relations</td>
+    <td>LINQ</td>
+  </tr>
+  <tr>
+    <td>Interfaces and Abstraction</td>
+    <td>Built-in Functions</td>
+    <td>Object state tracking,Types of loading</td>
+  </tr>
+  <tr>
+    <td>Polymorphism</td>
+    <td>Subqueries and Joins</td>
+    <td>Auto Mapping Objects</td>
+  </tr>
+  <tr>
+    <td>Exception Handling</td>
+    <td>Indices and Data Aggregation</td>
+    <td>JSON Processing</td>
+  </tr>
+  <tr>
+    <td>SOLID</td>
+    <td>Functions and Stored Procedures</td>
+    <td>XML Processing</td>
+  </tr>
+  <tr>
+    <td>Reflection and attributes</td>
+    <td>Triggers and Transactions</td>
+    <td>NoSQL - introduction to MongoDB</td>
+  </tr>
+  <tr>
+    <td>Mocking and Test Driven Development</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Design Patterns - Introduction</td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
