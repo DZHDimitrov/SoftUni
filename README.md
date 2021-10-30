@@ -77,7 +77,7 @@
   <tr>
     <td>Interfaces and Abstraction</td>
     <td>Built-in Functions</td>
-    <td>Object state tracking,Types of loading</td>
+    <td>Advanced querying</td>
   </tr>
   <tr>
     <td>Polymorphism</td>
@@ -100,12 +100,12 @@
     <td>NoSQL - introduction to MongoDB</td>
   </tr>
   <tr>
-    <td>Mocking and Test Driven Development</td>
+    <td>Mocking and TDD</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <td>Design Patterns - Introduction</td>
+    <td>Design Patterns - intro</td>
     <td></td>
     <td></td>
   </tr>
