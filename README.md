@@ -77,7 +77,7 @@
   <tr>
     <td>Interfaces and Abstraction&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
     <td>Built-in Functions</td>
-    <td>Advanced querying</td>
+    <td>Object state tracking,Types of loading</td>
   </tr>
   <tr>
     <td>Polymorphism</td>
