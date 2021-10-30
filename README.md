@@ -57,7 +57,7 @@
     <td>Algorithms introduction</td>
   </tr>
 </table>
-
+<hr/>
 <table>
   <tr>
     <th>C# OOP</th>
