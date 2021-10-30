@@ -16,7 +16,8 @@
 
             Console.WriteLine(result);
         }
-        //Problem 02
+        
+        //Problem 03
         public static string GetEmployeesFullInformation(SoftUniContext context)
         {
             var sb = new StringBuilder();
@@ -29,7 +30,8 @@
 
             return sb.ToString().TrimEnd();
         }
-        //Problem 03
+        
+        //Problem 04
         public static string GetEmployeesWithSalaryOver50000(SoftUniContext context)
         {
             var sb = new StringBuilder();
@@ -46,7 +48,8 @@
 
             return sb.ToString().TrimEnd();
         }
-
+        
+         //Problem 05
         public static string GetEmployeesFromResearchAndDevelopment(SoftUniContext context)
         {
             var sb = new StringBuilder();
@@ -64,7 +67,8 @@
 
             return sb.ToString().TrimEnd();
         }
-
+        
+         //Problem 06
         public static string AddNewAddressToEmployee(SoftUniContext context)
         {
             var sb = new StringBuilder();
@@ -89,6 +93,7 @@
             return sb.ToString().TrimEnd();
         }
         
+         //Problem 07
         public static string GetEmployeesInPeriod(SoftUniContext context)
         {
             var sb = new StringBuilder();
@@ -126,7 +131,8 @@
             }
             return sb.ToString().TrimEnd();
         }
-
+        
+         //Problem 08
         public static string GetAddressesByTown(SoftUniContext context)
         {
             var sb = new StringBuilder();
@@ -146,6 +152,7 @@
             return sb.ToString().TrimEnd();
         }
         
+         //Problem 09
          public static string GetEmployee147(SoftUniContext context)
         {
             var sb = new StringBuilder();
@@ -172,7 +179,8 @@
 
             return sb.ToString().TrimEnd();
         }
-
+        
+         //Problem 10
         public static string GetDepartmentsWithMoreThan5Employees(SoftUniContext context)
         {
             var sb = new StringBuilder();
@@ -208,7 +216,8 @@
 
             return sb.ToString().TrimEnd();
         }
-
+        
+         //Problem 11
         public static string GetLatestProjects(SoftUniContext context)
         {
             var sb = new StringBuilder();
@@ -233,7 +242,8 @@
 
             return sb.ToString().TrimEnd();
         }
-
+        
+         //Problem 12
         public static string IncreaseSalaries(SoftUniContext context)
         {
             var sb = new StringBuilder();
@@ -265,7 +275,7 @@
 
             return sb.ToString().TrimEnd();
         }
-
+         //Problem 13
         static string GetEmployeesByFirstNameStartingWithSa(SoftUniContext context)
         {
             var sb = new StringBuilder();
@@ -289,7 +299,8 @@
 
             return sb.ToString().TrimEnd();
         }
-
+        
+         //Problem 14
         public static string DeleteProjectById(SoftUniContext context)
         {
             var sb = new StringBuilder();
@@ -317,7 +328,8 @@
 
             return sb.ToString().TrimEnd();
         }
-
+        
+         //Problem 15
         public static string RemoveTown(SoftUniContext context)
         {
             var employeesInTown = context.Employees.Where(x => x.Address.Town.Name == "Seattle").AsQueryable();
