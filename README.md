@@ -110,3 +110,11 @@
     <td></td>
   </tr>
 </table>
+<br/>
+<table>
+  <tr>
+    <th>JS Advanced</th>
+    <th>JS Applications</th>
+    <th>Angular</th>
+  </tr>
+</table
