@@ -141,7 +141,7 @@
     <td>Client Side Rendering</td>
   </tr>
   <tr>
-    <td>Unit Testing and Error Handling</td>
+    <td>Unit Testing, Error Handling</td>
     <td>Routing</td>
   </tr>
   <tr>
