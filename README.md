@@ -115,6 +115,41 @@
   <tr>
     <th>JS Advanced</th>
     <th>JS Applications</th>
-    <th>Angular</th>
+  </tr>
+  <tr>
+    <td>Syntax,Functions and Statements</td>
+    <td>HTTP and REST Services</td>
+  </tr>
+  <tr>
+    <td>Arrays and Nested Arrays</td>
+    <td>Asynchronous programming</td>
+  </tr>
+  <tr>
+    <td>Objects and Composition</td>
+    <td>Remote Data and Authentication</td>
+  </tr>
+  <tr>
+    <td>DOM Introduction</td>
+    <td>Single Page Applications</td>
+  </tr>
+  <tr>
+    <td>DOM Manipulations and Events</td>
+    <td>Architecture and Testing</td>
+  </tr>
+  <tr>
+    <td>Advanced functions</td>
+    <td>Client Side Rendering</td>
+  </tr>
+  <tr>
+    <td>Unit Testing and Error Handling</td>
+    <td>Routing</td>
+  </tr>
+  <tr>
+    <td>Classes</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Prototypes and Inheritance</td>
+    <td></td>
   </tr>
 </table
