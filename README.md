@@ -117,7 +117,7 @@
     <th>JS Applications</th>
   </tr>
   <tr>
-    <td>Functions and Statements</td>
+    <td>Syntax,Functions and Statements</td>
     <td>HTTP and REST Services</td>
   </tr>
   <tr>
@@ -133,7 +133,7 @@
     <td>Single Page Applications</td>
   </tr>
   <tr>
-    <td>DOM Manipulations and Events</td>
+    <td>DOM Manipulations, Events</td>
     <td>Architecture and Testing</td>
   </tr>
   <tr>
