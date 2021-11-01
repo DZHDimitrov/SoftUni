@@ -117,7 +117,7 @@
     <th>JS Applications</th>
   </tr>
   <tr>
-    <td>Syntax,Functions, Statements</td>
+    <td>Syntax,Functions, Statements&nbsp;&nbsp;&nbsp;</td>
     <td>HTTP and REST Services</td>
   </tr>
   <tr>
