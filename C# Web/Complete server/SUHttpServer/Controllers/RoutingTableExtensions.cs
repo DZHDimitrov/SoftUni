@@ -1,0 +1,145 @@
+﻿using SUHttpServer.Attributes;
+using SUHttpServer.HTTP;
+using SUHttpServer.Routing.interfaces;
+using System.Linq;
+using System.Reflection;
+
+namespace SUHttpServer.Controllers
+{
+    public static class RoutingTableExtensions
+    {
+        public static IRoutingTable MapGet<TController>(this IRoutingTable routingTable, string path, Func<TController, Response> controllerFunction)
+            where TController : Controller
+            => routingTable.MapGet(path, request => controllerFunction(CreateController<TController>(request)));
+
+        public static IRoutingTable MapPost<TController>(this IRoutingTable routingTable, string path, Func<TController, Response> controllerFunction)
+            where TController : Controller
+            => routingTable.MapPost(path, request => controllerFunction(CreateController<TController>(request)));
+
+        private static TController CreateController<TController>(Request request) 
+            => (TController)Activator.CreateInstance(typeof(TController), new[] { request });
+
+        public static IRoutingTable MapControllers(this IRoutingTable routingTable)
+        {
+            IEnumerable<MethodInfo> controllerActions = GetControllerActions();
+
+            foreach (var controllerAction in controllerActions)
+            {
+                string controllerName = controllerAction
+                    .DeclaringType
+                    .Name
+                    .Replace(nameof(Controller), string.Empty);
+
+                string actionName = controllerAction.Name;
+                string path = $"/{controllerName}/{actionName}";
+
+                var responseFunction = GetResponseFunction(controllerAction);
+
+                Method httpMethod = Method.GET;
+                var actionMethodAttriute = controllerAction
+                    .GetCustomAttribute<HttpMethodAttribute>();
+
+                if (actionMethodAttriute != null)
+                {
+                    httpMethod = actionMethodAttriute.HttpMethod;
+                }
+
+                routingTable.Map(path, httpMethod, responseFunction);
+            }
+
+            return routingTable;
+        }
+
+        private static Func<Request, Response> GetResponseFunction(MethodInfo controllerAction)
+        {
+            return request =>
+            {
+                var controllerInstance = CreateController(controllerAction.DeclaringType,request);
+                var parameterValues = GetParameterValues(controllerAction,request);
+
+                return (Response)controllerAction.Invoke(controllerInstance, parameterValues);
+            };
+        }
+
+        private static object[] GetParameterValues(MethodInfo controllerAction, Request request)
+        {
+            var actionParameters = controllerAction
+                .GetParameters()
+                .Select(p => new 
+                {
+                    p.Name,
+                    p.ParameterType
+                })
+                .ToArray();
+
+            var parameterValues = new object[actionParameters.Length];
+
+            for (int i = 0; i < parameterValues.Length; i++)
+            {
+                var parameter = actionParameters[i];
+
+                if (parameter.ParameterType.IsPrimitive ||
+                    parameter.ParameterType == typeof(string))
+                {
+                    try
+                    {
+                        string parameterValue = request.GetValue(parameter.Name);
+                        parameterValues[i] = Convert.ChangeType(parameterValue, parameter.ParameterType);
+                    }
+                    catch(Exception)
+                    {}
+
+                }
+                else
+                {
+                    var parameterValue = Activator.CreateInstance(parameter.ParameterType);
+                    var parameterProperties = parameter.ParameterType.GetProperties();
+
+                    foreach (var property in parameterProperties)
+                    {
+                        try
+                        {
+                            var propertyValue = request.GetValue(property.Name);
+                            property.SetValue(
+                                parameterValue,
+                                Convert.ChangeType(propertyValue, property.PropertyType));
+                        }
+                        catch (Exception)
+                        {}
+                    }
+
+                    parameterValues[i] = parameterValue;
+                }
+            }
+            return parameterValues;
+        }
+
+        private static string GetValue(this Request request, string name)
+            => request.Query.GetValueOrDefault(name) ??
+               request.Form.GetValueOrDefault(name);
+
+
+        private static IEnumerable<MethodInfo> GetControllerActions()
+            => Assembly
+            .GetEntryAssembly()
+            .GetExportedTypes()
+            .Where(t => t.IsAbstract == false)
+            .Where(t => t.IsAssignableTo(typeof(Controller)))
+            .Where(t => t.Name.EndsWith(nameof(Controller)))
+            .SelectMany(t => t
+                .GetMethods(BindingFlags.Instance | BindingFlags.Public)
+                .Where(m => m.ReturnType.IsAssignableTo(typeof(Response)))
+            ).ToList();
+
+        private static Controller CreateController(Type controllerType,Request request)
+        {
+            var controller = (Controller)Request.ServiceCollection.CreateInstance(controllerType);
+
+            controllerType
+                .GetProperty("Request", BindingFlags.Instance | BindingFlags.NonPublic)
+                .SetValue(controller, request);
+
+            return controller;
+        }
+    }
+}
