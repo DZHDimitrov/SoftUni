@@ -140,11 +140,11 @@
   <tr>
     <td>DOM Manipulations, Events</td>
     <td>Architecture and Testing</td>
-    <td>MVC - View Engine</td>
+    <td>MVC - View Engine&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
   </tr>
   <tr>
     <td>Advanced functions</td>
-    <td>Client Side Rendering&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td>Client Side Rendering</td>
     <td></td>
   </tr>
   <tr>
