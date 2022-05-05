@@ -145,13 +145,16 @@
   <tr>
     <td>Advanced functions</td>
     <td>Client Side Rendering</td>
+    <td></td>
   </tr>
   <tr>
     <td>Unit Testing, Error Handling</td>
     <td>Routing</td>
+    <td></td>
   </tr>
   <tr>
     <td>Classes</td>
+    <td></td>
     <td></td>
   </tr>
   <tr>
