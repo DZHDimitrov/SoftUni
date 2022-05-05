@@ -163,6 +163,7 @@
     <td></td>
   </tr>
 </table>
+<br/>
 <table>
   <tr>
     <th>ASP.NET Core</th>
