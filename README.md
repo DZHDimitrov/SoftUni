@@ -153,3 +153,45 @@
     <td></td>
   </tr>
 </table
+  <table>
+  <tr>
+    <th>C# Web</th>
+    <th>ASP.NET Core</th>
+  </tr>
+  <tr>
+    <td>HTTP Protocol</td>
+    <td>Razor Views</td>
+  </tr>
+  <tr>
+    <td>Asynchronous processing</td>
+    <td>Filters, Middlewares</td>
+  </tr>
+  <tr>
+    <td>State management</td>
+    <td>Data Binding</td>
+  </tr>
+  <tr>
+    <td>Model-View-Controller</td>
+    <td>Web API</td>
+  </tr>
+  <tr>
+    <td>MVC - View Engine</td>
+    <td>Testing</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Project Architecture</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>SignalR</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Azure, Deployment & CI</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Blazor</td>
+  </tr>
+</table
