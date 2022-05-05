@@ -160,6 +160,7 @@
   <tr>
     <td>Prototypes and Inheritance</td>
     <td></td>
+    <td></td>
   </tr>
 </table>
 <table>
