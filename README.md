@@ -115,26 +115,32 @@
   <tr>
     <th>JS Advanced</th>
     <th>JS Applications</th>
+    <th>C# Web</th>
   </tr>
   <tr>
     <td>Syntax,Functions, Statements&nbsp;&nbsp;&nbsp;</td>
     <td>HTTP and REST Services</td>
+    <td>HTTP Protocol</td>
   </tr>
   <tr>
     <td>Arrays and Nested Arrays</td>
     <td>Asynchronous programming</td>
+    <td>Asynchronous Processing</td>
   </tr>
   <tr>
     <td>Objects and Composition</td>
     <td>Remote Data and Authentication</td>
+    <td>State Management</td>
   </tr>
   <tr>
     <td>DOM Introduction</td>
     <td>Single Page Applications</td>
+    <td>Model-View-Controller</td>
   </tr>
   <tr>
     <td>DOM Manipulations, Events</td>
     <td>Architecture and Testing</td>
+    <td>MVC - View Engine</td>
   </tr>
   <tr>
     <td>Advanced functions</td>
@@ -155,43 +161,33 @@
 </table>
 <table>
   <tr>
-    <th>C# Web</th>
     <th>ASP.NET Core</th>
   </tr>
   <tr>
-    <td>HTTP Protocol</td>
     <td>Razor Views</td>
   </tr>
   <tr>
-    <td>Asynchronous processing</td>
     <td>Filters, Middlewares</td>
   </tr>
   <tr>
-    <td>State management</td>
     <td>Data Binding</td>
   </tr>
   <tr>
-    <td>Model-View-Controller</td>
     <td>Web API</td>
   </tr>
   <tr>
-    <td>MVC - View Engine</td>
     <td>Testing</td>
   </tr>
   <tr>
-    <td></td>
     <td>Project Architecture</td>
   </tr>
   <tr>
-    <td></td>
     <td>SignalR</td>
   </tr>
   <tr>
-    <td></td>
     <td>Azure, Deployment & CI</td>
   </tr>
   <tr>
-    <td></td>
     <td>Blazor</td>
   </tr>
 </table
