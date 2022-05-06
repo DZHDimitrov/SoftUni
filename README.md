@@ -62,7 +62,7 @@
   <tr>
     <th>C# OOP</th>
     <th>MS SQL</th>
-    <th>EntityFramework Core</th>
+    <th>Entity Framework Core</th>
   </tr>
   <tr>
     <td>Inheritance</td>
