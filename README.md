@@ -62,7 +62,7 @@
   <tr>
     <th>C# OOP</th>
     <th>MS SQL</th>
-    <th>EntityFramework Core</th>
+    <th>Entity Framework Core</th>
   </tr>
   <tr>
     <td>Inheritance</td>
@@ -115,41 +115,85 @@
   <tr>
     <th>JS Advanced</th>
     <th>JS Applications</th>
+    <th>C# Web</th>
   </tr>
   <tr>
     <td>Syntax,Functions, Statements&nbsp;&nbsp;&nbsp;</td>
     <td>HTTP and REST Services</td>
+    <td>HTTP Protocol</td>
   </tr>
   <tr>
     <td>Arrays and Nested Arrays</td>
     <td>Asynchronous programming</td>
+    <td>Asynchronous Processing</td>
   </tr>
   <tr>
     <td>Objects and Composition</td>
     <td>Remote Data and Authentication</td>
+    <td>State Management</td>
   </tr>
   <tr>
     <td>DOM Introduction</td>
     <td>Single Page Applications</td>
+    <td>Model-View-Controller</td>
   </tr>
   <tr>
     <td>DOM Manipulations, Events</td>
     <td>Architecture and Testing</td>
+    <td>MVC - View Engine &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    </td>
   </tr>
   <tr>
     <td>Advanced functions</td>
     <td>Client Side Rendering</td>
+    <td></td>
   </tr>
   <tr>
     <td>Unit Testing, Error Handling</td>
     <td>Routing</td>
+    <td></td>
   </tr>
   <tr>
     <td>Classes</td>
+    <td></td>
     <td></td>
   </tr>
   <tr>
     <td>Prototypes and Inheritance</td>
     <td></td>
+    <td></td>
+  </tr>
+</table>
+<br/>
+<table>
+  <tr>
+    <th>ASP.NET Core</th>
+  </tr>
+  <tr>
+    <td>Razor Views</td>
+  </tr>
+  <tr>
+    <td>Filters, Middlewares &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>Data Binding</td>
+  </tr>
+  <tr>
+    <td>Web API</td>
+  </tr>
+  <tr>
+    <td>Testing</td>
+  </tr>
+  <tr>
+    <td>Project Architecture</td>
+  </tr>
+  <tr>
+    <td>SignalR</td>
+  </tr>
+  <tr>
+    <td>Azure, Deployment & CI</td>
+  </tr>
+  <tr>
+    <td>Blazor</td>
   </tr>
 </table
