@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "wPaMiKcCqaKDEWi53ZPRe6nLy4r2ywNkbsJ2bXj1+2Cb610Zq5iL6sSD8eg8zZ/0L1y5ntPjqfjY3xKuBH2qbA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Daniel\\Desktop\\07.Heaps-BST-Exercise-Exercises-Skeleton\\03.MinHeap\\03.MinHeap.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Daniel\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Daniel\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

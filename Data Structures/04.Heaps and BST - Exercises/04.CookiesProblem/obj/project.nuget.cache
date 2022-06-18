@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "dvtn9rVz13PBHI1t+CX3qdwGaTj7T6EpXQvtBucU24OwOc04trJSOHOIq6ftMsabFF1YJrlG0cx/rou52I84qA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Daniel\\Desktop\\07.Heaps-BST-Exercise-Exercises-Skeleton\\04.CookiesProblem\\04.CookiesProblem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Daniel\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Daniel\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

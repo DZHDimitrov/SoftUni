@@ -1,0 +1,10 @@
+C:\Users\Daniel\Desktop\07.Heaps-BST-Exercise-Exercises-Skeleton\02.LowestCommonAncestor\bin\Debug\netstandard2.0\02.LowestCommonAncestor.deps.json
+C:\Users\Daniel\Desktop\07.Heaps-BST-Exercise-Exercises-Skeleton\02.LowestCommonAncestor\bin\Debug\netstandard2.0\02.LowestCommonAncestor.dll
+C:\Users\Daniel\Desktop\07.Heaps-BST-Exercise-Exercises-Skeleton\02.LowestCommonAncestor\bin\Debug\netstandard2.0\02.LowestCommonAncestor.pdb
+C:\Users\Daniel\Desktop\07.Heaps-BST-Exercise-Exercises-Skeleton\02.LowestCommonAncestor\obj\Debug\netstandard2.0\02.LowestCommonAncestor.csproj.AssemblyReference.cache
+C:\Users\Daniel\Desktop\07.Heaps-BST-Exercise-Exercises-Skeleton\02.LowestCommonAncestor\obj\Debug\netstandard2.0\02.LowestCommonAncestor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\Desktop\07.Heaps-BST-Exercise-Exercises-Skeleton\02.LowestCommonAncestor\obj\Debug\netstandard2.0\02.LowestCommonAncestor.AssemblyInfoInputs.cache
+C:\Users\Daniel\Desktop\07.Heaps-BST-Exercise-Exercises-Skeleton\02.LowestCommonAncestor\obj\Debug\netstandard2.0\02.LowestCommonAncestor.AssemblyInfo.cs
+C:\Users\Daniel\Desktop\07.Heaps-BST-Exercise-Exercises-Skeleton\02.LowestCommonAncestor\obj\Debug\netstandard2.0\02.LowestCommonAncestor.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\07.Heaps-BST-Exercise-Exercises-Skeleton\02.LowestCommonAncestor\obj\Debug\netstandard2.0\02.LowestCommonAncestor.dll
+C:\Users\Daniel\Desktop\07.Heaps-BST-Exercise-Exercises-Skeleton\02.LowestCommonAncestor\obj\Debug\netstandard2.0\02.LowestCommonAncestor.pdb

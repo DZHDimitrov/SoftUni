@@ -1,0 +1,10 @@
+C:\Users\Daniel\Desktop\07.Heaps-BST-Exercise-Exercises-Skeleton\03.MinHeap\bin\Debug\netstandard2.0\03.MinHeap.deps.json
+C:\Users\Daniel\Desktop\07.Heaps-BST-Exercise-Exercises-Skeleton\03.MinHeap\bin\Debug\netstandard2.0\03.MinHeap.dll
+C:\Users\Daniel\Desktop\07.Heaps-BST-Exercise-Exercises-Skeleton\03.MinHeap\bin\Debug\netstandard2.0\03.MinHeap.pdb
+C:\Users\Daniel\Desktop\07.Heaps-BST-Exercise-Exercises-Skeleton\03.MinHeap\obj\Debug\netstandard2.0\03.MinHeap.csproj.AssemblyReference.cache
+C:\Users\Daniel\Desktop\07.Heaps-BST-Exercise-Exercises-Skeleton\03.MinHeap\obj\Debug\netstandard2.0\03.MinHeap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\Desktop\07.Heaps-BST-Exercise-Exercises-Skeleton\03.MinHeap\obj\Debug\netstandard2.0\03.MinHeap.AssemblyInfoInputs.cache
+C:\Users\Daniel\Desktop\07.Heaps-BST-Exercise-Exercises-Skeleton\03.MinHeap\obj\Debug\netstandard2.0\03.MinHeap.AssemblyInfo.cs
+C:\Users\Daniel\Desktop\07.Heaps-BST-Exercise-Exercises-Skeleton\03.MinHeap\obj\Debug\netstandard2.0\03.MinHeap.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\07.Heaps-BST-Exercise-Exercises-Skeleton\03.MinHeap\obj\Debug\netstandard2.0\03.MinHeap.dll
+C:\Users\Daniel\Desktop\07.Heaps-BST-Exercise-Exercises-Skeleton\03.MinHeap\obj\Debug\netstandard2.0\03.MinHeap.pdb
