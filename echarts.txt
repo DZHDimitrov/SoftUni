@@ -1,0 +1,60 @@
+let theta = -11;
+let r = 70;
+let total = 0;
+
+const eachDistance = 360 / 63;
+console.log(eachDistance);
+
+option = {
+  xAxis: {
+    min: -90,
+    max: 90
+  },
+  yAxis: {
+    type: 'value',
+    min: -90,
+    max: 90
+  },
+  series: [
+    {
+      type: 'custom',
+      renderItem: function (params, api) {
+        const value = api.value(1);
+        const children = [];
+        gen(children, api);
+        console.log(total)
+        return {
+          type: 'group',
+          children
+        };
+      },
+      data: [[0,20]]
+    }
+  ]
+};
+
+function gen(children, api) {
+  for (var i = 0; i < 63; i++) {
+    const xRaw = r * Math.cos(theta);
+    const yRaw = r * Math.sin(theta);
+    total+=eachDistance;
+    const [x, y] = api.coord([xRaw, yRaw]);
+    if(children.length > 0) {
+      const last = children[children.length-1];
+      last.style.fill = '#000000';
+    }
+    const circle = {
+      type: 'circle',
+      shape: {
+        cx: x,
+        cy: y,
+        r: 3
+      },
+      style: {
+        fill: '#000000'
+      }
+    };
+    children.push(circle);
+    theta -= 0.1;
+  }
+}
