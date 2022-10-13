@@ -180,7 +180,7 @@
   </tr>
   <tr>
     <td>Data Binding</td>
-    <td>RxJS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td>RxJS</td>
   </tr>
   <tr>
     <td>Web API</td>
@@ -192,7 +192,7 @@
   </tr>
   <tr>
     <td>Project Architecture</td>
-    <td>Pipes, Interceptors, Subjects</td>
+    <td>Pipes, Interceptors, Subjects &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
   </tr>
   <tr>
     <td>SignalR</td>
