@@ -168,59 +168,40 @@
 <table>
   <tr>
     <th>ASP.NET Core</th>
+    <th>Angular</th>
   </tr>
   <tr>
     <td>Razor Views</td>
+    <td>Components</td>
   </tr>
   <tr>
     <td>Filters, Middlewares &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td>Dependency Injection and Services</td>
   </tr>
   <tr>
     <td>Data Binding</td>
+    <td>RxJS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
   </tr>
   <tr>
     <td>Web API</td>
+    <td>Modules and Routing</td>
   </tr>
   <tr>
     <td>Testing</td>
+    <td>Forms</td>
   </tr>
   <tr>
     <td>Project Architecture</td>
+    <td>Pipes, Interceptors, Subjects</td>
   </tr>
   <tr>
     <td>SignalR</td>
+    <td>NgRx (State Management)</td>
   </tr>
   <tr>
     <td>Azure, Deployment & CI</td>
   </tr>
   <tr>
     <td>Blazor</td>
-  </tr>
-</table
-<br/>
-<table>
-  <tr>
-    <th>Angular</th>
-  </tr>
-  <tr>
-    <td>Components</td>
-  </tr>
-    <tr>
-    <td>Dependency Injection and Services</td>
-  </tr>
-  <tr>
-    <td>RxJS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
-  </tr>
-  <tr>
-    <td>Modules and Routing</td>
-  </tr>
-  <tr>
-    <td>Forms</td>
-  </tr>
-  <tr>
-    <td>Pipes, Interceptors, Subjects</td>
-  </tr>
-  <tr>
-    <td>NgRx (State Management)</td>
   </tr>
 </table
