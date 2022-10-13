@@ -199,7 +199,7 @@
     <td>NgRx (State Management)</td>
   </tr>
   <tr>
-    <td>Azure, Deployment & CI&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td>Azure, Deployment & CI&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
     <td></td>
   </tr>
   <tr>
