@@ -192,14 +192,14 @@
   </tr>
   <tr>
     <td>Project Architecture</td>
-    <td>Pipes, Interceptors, Subjects &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td>Pipes, Interceptors, Subjects &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
   </tr>
   <tr>
     <td>SignalR</td>
     <td>NgRx (State Management)</td>
   </tr>
   <tr>
-    <td>Azure, Deployment & CI&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td>Azure, Deployment & CI&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
     <td></td>
   </tr>
   <tr>
