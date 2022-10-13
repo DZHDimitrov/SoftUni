@@ -197,3 +197,30 @@
     <td>Blazor</td>
   </tr>
 </table
+<br/>
+<table>
+  <tr>
+    <th>Angular</th>
+  </tr>
+  <tr>
+    <td>Components</td>
+  </tr>
+    <tr>
+    <td>Dependency Injection and Services</td>
+  </tr>
+  <tr>
+    <td>RxJS&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>Modules and Routing</td>
+  </tr>
+  <tr>
+    <td>Forms</td>
+  </tr>
+  <tr>
+    <td>Pipes, Interceptors, Subjects</td>
+  </tr>
+  <tr>
+    <td>NgRx (State Management)</td>
+  </tr>
+</table
