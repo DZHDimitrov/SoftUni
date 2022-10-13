@@ -176,7 +176,7 @@
   </tr>
   <tr>
     <td>Filters, Middlewares &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
-    <td>Dependency Injection and Services</td>
+    <td>DI and Services</td>
   </tr>
   <tr>
     <td>Data Binding</td>
@@ -200,8 +200,10 @@
   </tr>
   <tr>
     <td>Azure, Deployment & CI</td>
+    <td></td>
   </tr>
   <tr>
     <td>Blazor</td>
+    <td></td>
   </tr>
 </table
